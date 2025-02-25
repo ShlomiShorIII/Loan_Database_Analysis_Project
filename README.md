@@ -2,7 +2,7 @@
 
 ## 📝 Overview  
 This project analyzes loan approval patterns based on applicant characteristics, including **income, employment stability, credit rating, and loan amount**.  
-The dataset `loan-approval.csv` is used to identify trends and insights that could help optimize **loan approval policies** while balancing risk and profitability.  
+The dataset `loan-approval.csv`(https://www.kaggle.com/code/sulaniishara/loan-approval-insights-data-to-decision-making) is used to identify trends and insights that could help optimize **loan approval policies** while balancing risk and profitability.  
 
 ## 🔍 Key Research Question  
 **How can we use the loan-approval dataset to develop an optimal policy for loan approvals and rejections?**  
